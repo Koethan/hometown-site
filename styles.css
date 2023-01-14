@@ -82,11 +82,15 @@ img {
     justify-content:space-around;
     /* border-radius:50px; */
     display:flex;
+    gap: 20px;
+    
     
     
 }
 .act-images-ind {
     width: 33.333%;
+    /* border: 1px solid red; */
+
     
 }
 .act-photo{
